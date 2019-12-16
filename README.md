@@ -1,2 +1,2 @@
 # Toy Interpreter
-Toy Interpreter Project for CISC 3160
+Toy Interpreter Project
